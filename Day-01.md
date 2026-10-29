@@ -1,5 +1,5 @@
-  Day 1: What a SOC analyst does
-  Date # Oct.27.2026
+Day 1: What a SOC analyst does
+Date # Oct.27.2026
 
 1. What  I Learned 
 I learned what a SOC analyst does and the types of SOC analyst (Tier 1, 2, 3).
