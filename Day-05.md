@@ -1,5 +1,5 @@
 # Day 5 - IP Addresses
-Date: Oct 31, 2026
+  Date: Oct 31, 2026
 
 ## 1. What I learned
 - I learned what an IP address is.
@@ -27,8 +27,8 @@ Date: Oct 31, 2026
 - DNS: Domain Name System. It changes a website name (like google.com) into an IP address.
 - Public IP / Private IP: Public: used on the internet. Private: used inside my home network.
 
-4. What was hard
+## 4. What was hard
 - Nothing was hard
 
- 5. Explain in 2 sentences
+## 5. Explain in 2 sentences
 - An IP address is a unique address for a device. It has two versions, IPv4 and IPv6, and different types like public and private, dynamic and static.
