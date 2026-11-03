@@ -1,7 +1,7 @@
-Day 2: How a Computer Works
-Date: October 28, 2026
+# Day 2: How a Computer Works
+  Date: October 28, 2026
 
-1. What I learned
+## 1. What I learned
 - A computer takes in data, works on it, keeps it, and shows the result.
 - Hardware is the parts I can touch. Software is the instructions.
 - The operating system (OS) controls the hardware.
@@ -11,7 +11,7 @@ Date: October 28, 2026
 - A SOC analyst works in defensive security.
 
 
- 2. What I did (practice)
+## 2. What I did (practice)
 - I opened Task Manager with Ctrl + Shift + Esc.
 - On the Performance tab, I found my CPU, RAM, and disk.
 - CPU: 2 cores, 4 logical processors, maximum speed 2.67 GHz.
@@ -21,7 +21,7 @@ Date: October 28, 2026
 - I also practiced on TryHackMe, Introduction to Cyber Security path.
 - I finished two rooms: Offensive Security Intro and Defensive Security Intro.
 
-3. New words
+## 3. New words
 - Bit = one 0 or 1
 - Byte = 8 bits
 - CPU = the brain of the computer
@@ -34,9 +34,9 @@ Date: October 28, 2026
  - Offensive security = attacking systems to find weak points (the red team)
 - Defensive security = protecting systems and finding attacks (the blue team)
 
- 4. What was hard
+## 4. What was hard
 - Nothing was hard today.
 
- 5. Explain in 2 sentences (my own words)
+## 5. Explain in 2 sentences (my own words)
 - The CPU is the brain. It does the work.
 - RAM holds what I use now, and the disk keeps my files.
