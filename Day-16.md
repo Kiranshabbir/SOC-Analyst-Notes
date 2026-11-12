@@ -1,6 +1,7 @@
 # Day 16 - Linux navigation commands.
 Date: Nov 11, 2026
 
+
 ## 1. What I learned
 - ls is a command which means show list of all folders and files.
 - ls -l is a command which means show details of all folders and files.
@@ -17,7 +18,7 @@ Date: Nov 11, 2026
 - I made a folder called practice, moved into it with cd, made a file called test.txt inside it, copied it, renamed it, and deleted it.
 - I completed OverTheWire Bandit Level 2 today.
 
-- 
+
 ## 3. New words
 - rm: remove 
 - cp: copy
@@ -28,10 +29,10 @@ Date: Nov 11, 2026
 - ls: show files
 - cd: go into or out of a folder
 
-- 
+
 ## 4. What was hard
 - Firstly I felt these commands are hard but when I practice 2 3 times I am comfortable to use it.
 
-- 
+
 ## 5. Explain in 2 sentences
 - In Linux, I use the pwd command to check where I am, and the cd command to move between folders. I use mkdir to make a folder, touch to make a file, cp to copy, mv to rename, and rm to remove a file or folder.
