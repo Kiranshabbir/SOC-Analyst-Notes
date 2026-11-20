@@ -14,12 +14,13 @@ Date: Nov 20, 2026
 ## 2. What I did
 - I watched videos of malware types.
 - | Malware | How it spreads | Harm example |
-|---------|----------------|--------------|
-| Virus | Opening an infected file | Deletes or corrupts files |
-| Worm | By itself, across a network | Slows down or crashes a network |
-| Trojan | Hides in normal-looking software | Steals passwords |
-| Ransomware | Email attachments, bad links | Locks files, demands payment |
-| Spyware | Hidden in downloads | Steals personal information |
+  
+ |---------|----------------|--------------|
+ | Virus | Opening an infected file | Deletes or corrupts files |
+ | Worm | By itself, across a network | Slows down or crashes a network |
+ | Trojan | Hides in normal-looking software | Steals passwords |
+ | Ransomware | Email attachments, bad links | Locks files, demands payment |
+ | Spyware | Hidden in downloads | Steals personal information |
 
 
 ## 3. New words
