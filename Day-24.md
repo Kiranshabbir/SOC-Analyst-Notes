@@ -10,7 +10,7 @@ Date: Nov 19, 2026
 - An insider threat comes from someone already inside the company, like an employee.
 - Organized crime groups attack for money.
 
-- 
+
 ## 2. What I did
 - I watched videos of threat actors and attack types.
 - I searched about types of attacks.
@@ -31,4 +31,4 @@ Date: Nov 19, 2026
 
 ## 5. Explain in 2 sentences
 - I learned today that threat actors are those people who cause cyber harm. Attack types are the method which attackers use to attack.
-- 
+  
