@@ -4,7 +4,7 @@ Date: Nov 24, 2026
 
 ## 1. What I learned 
 - I learned about if, else, elif, for, while.
-- I learned that if  runs code when condition true.
+- I learned that if runs code when condition true.
 - I learned that elif checks another condition if false.
 - I learned that else runs code when all false.
 - I learned that for loops through every sequence item.
@@ -20,7 +20,7 @@ Date: Nov 24, 2026
 
 
 ## 3. New words 
-- if : Runs code when condition true.
+- if : Runs code when condition true.
 - elif: Checks another condition if false.
 - else: Runs code when all false.
 - for: Loops through every sequence item.
