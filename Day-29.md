@@ -20,7 +20,7 @@ Date: Nov 24, 2026
 
 
 ## 3. New words 
-- if: Runs code when condition true.
+- if : Runs code when condition true.
 - elif: Checks another condition if false.
 - else: Runs code when all false.
 - for: Loops through every sequence item.
